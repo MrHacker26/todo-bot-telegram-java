@@ -1,0 +1,1 @@
+After getting my hands on java I thought to make a telegram bot in java, so I made this.
